@@ -38,9 +38,9 @@ menu:
   main:
     - identifier: research
       name: Research
-      url: /research/
+      url: research/
       weight: 10
-    - identifier: portfolio
+    - identifier: engineering
       name: Engineering
-      url: /portfolio/
+      url: engineering/
       weight: 20
