@@ -9,7 +9,7 @@ summary: "publications"
 **Managing the Stochastic: Foundations of Learning in Neuro-Symbolic Systems for Software Engineering** *Matthew Thompson* (2025)  
 [arXiv:2512.20660](https://arxiv.org/abs/2512.20660) | [Code](https://github.com/thompsonson/atomicguard)
 
-> **Abstract:** Current approaches to AI coding agents appear to blur the lines between the Large Language Model (LLM) and the agent itself, asking the LLM to make decisions best left to deterministic processes. This paper proposes setting the control boundary such that the LLM is treated as a component of the environment—preserving its creative stochasticity—rather than the decision-making agent. [cite_start]A Dual-State Architecture is formalized, separating workflow state (deterministic control flow) from environment state (stochastic generation). [cite: 4, 7]
+> **Abstract:** Current approaches to AI coding agents appear to blur the lines between the Large Language Model (LLM) and the agent itself, asking the LLM to make decisions best left to deterministic processes. This paper proposes setting the control boundary such that the LLM is treated as a component of the environment—preserving its creative stochasticity—rather than the decision-making agent. A Dual-State Architecture is formalized, separating workflow state (deterministic control flow) from environment state (stochastic generation). 
 
 ---
 
