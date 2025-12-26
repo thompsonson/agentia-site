@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: "archives"
+layout: "single"
 summary: "publications"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Engineering"
-layout: "archives"
+layout: "single"
 summary: "projects"
 ---
 

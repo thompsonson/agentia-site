@@ -17,9 +17,9 @@ params:
     imageTitle: "Matthew Thompson"
     buttons:
       - name: Research
-        url: "/research"
+        url: "research"
       - name: Engineering
-        url: "/portfolio"
+        url: "engineering"
       - name: arXiv
         url: "https://arxiv.org/abs/2512.20660"
       - name: GitHub
