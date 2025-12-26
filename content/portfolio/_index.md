@@ -4,16 +4,17 @@ layout: "archives"
 summary: "projects"
 ---
 
-### Core Projects
+### Leadership
 
-**AtomicGuard** A formal framework for reliable LLM agents using deterministic guards and atomic action pairs.  
+**Manta Technologies** *Chief Technology Officer*
+Building the next generation of **AI Orchestration**.
+* Architecting a **Federated Learning** platform for secure, distributed model training.
+* Backed by **Inria** and **BPI France**.
+* Leading technical strategy for hybrid **Edge/Cloud** deployment infrastructures.
+
+### Open Source
+
+**AtomicGuard**
+*Reliability Framework for LLM Agents*
+The reference implementation of my research into Dual-State Architectures. A library for enforcing deterministic verification loops on stochastic generative models.
 [View on GitHub](https://github.com/thompsonson/atomicguard)
-
-**Manta Technologies** *Chief Technology Officer* Leading technical strategy and DevOps for Data Science teams.
-
----
-
-### Tools & Utilities
-
-**det** A CLI utility developed for deterministic environment testing.  
-[View on GitHub](https://github.com/thompsonson/det)

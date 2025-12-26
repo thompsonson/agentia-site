@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     title: "Matthew Thompson"
-    subtitle: "Independent Researcher & CTO at Manta Technologies"
+    subtitle: "Bridging formal research and industrial AI systems. CTO at Manta Technologies."
     imageUrl: "https://github.com/thompsonson.png" 
     imageTitle: "Matthew Thompson"
     buttons:
@@ -30,7 +30,7 @@ params:
     - name: github
       url: "https://github.com/thompsonson"
     - name: linkedin
-      url: "https://linkedin.com/in/thompsonson" 
+      url: "https://www.linkedin.com/in/thompson-m/" 
     - name: cv
       url: "https://orcid.org/0009-0007-0846-0369"
 
