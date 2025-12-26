@@ -1,0 +1,46 @@
+baseURL: "https://agentia.tech/"
+languageCode: "en-us"
+title: "AgentIA"
+theme: "PaperMod"
+
+params:
+  defaultTheme: dark
+  ShowShareButtons: true
+  ShowReadingTime: true
+  
+  # Profile Mode (The "Hero" Section)
+  profileMode:
+    enabled: true
+    title: "Matthew Thompson"
+    subtitle: "Independent Researcher & CTO at Manta Technologies"
+    imageUrl: "https://github.com/thompsonson.png" 
+    imageTitle: "Matthew Thompson"
+    buttons:
+      - name: Research
+        url: "/research"
+      - name: Engineering
+        url: "/portfolio"
+      - name: arXiv
+        url: "https://arxiv.org/abs/2512.20660"
+      - name: GitHub
+        url: "https://github.com/thompsonson"
+
+  # Social Icons
+  socialIcons:
+    - name: github
+      url: "https://github.com/thompsonson"
+    - name: linkedin
+      url: "https://linkedin.com/in/thompsonson" 
+    - name: cv
+      url: "https://orcid.org/0009-0007-0846-0369"
+
+menu:
+  main:
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
+    - identifier: portfolio
+      name: Engineering
+      url: /portfolio/
+      weight: 20
