@@ -44,3 +44,7 @@ menu:
       name: Engineering
       url: engineering/
       weight: 20
+    - identifier: blog
+      name: Blog
+      url: https://blog.agentia.tech/en/
+      weight: 30
